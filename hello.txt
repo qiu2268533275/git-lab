@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main change
-=======
-branch change
->>>>>>> feature-branch
+main change and branch change merged
